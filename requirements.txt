@@ -1,0 +1,31 @@
+# Core
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# LLM & RAG
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.6
+openai>=1.6.0
+
+# Embeddings & Vector Store
+chromadb>=0.4.22
+faiss-cpu>=1.7.4
+
+# Document Loading
+pypdf>=3.17.0
+PyPDF2>=3.0.1
+unstructured>=0.11.0
+
+# Text Processing
+nltk>=3.8.1
+sentence-transformers>=2.2.2
+
+# Utilities
+requests>=2.31.0
